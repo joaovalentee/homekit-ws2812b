@@ -16,9 +16,9 @@ Compatible with ESP8266 and ESP8285
 
 * Field to set a personalised number of pixels
 * Effect speed
-* Controll through the built-in button
+* Control through the built-in button
 * Full restart, WiFi restart, HomeKit restart - using the button
-* Compability with Amazon Alexa
+* Compatibility with Amazon Alexa
 
 Feel free to sugest any other features you would like to see implemented into the firmware. 
 
