@@ -1,2 +1,2 @@
-# homekit-ws2812b
-Firmware for ESP8266 to control a ws2812b led strip with Homekit!
+# HomeKit SP501E firmware
+Firmware for addressable LED (like the WS2812B) compatible with Apple HomeKit.
